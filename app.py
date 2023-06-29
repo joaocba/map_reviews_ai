@@ -18,7 +18,7 @@ from _shared import SYSTEM_PROMPT8_2
 
 ## CONFIG ##
 # Set openai API key
-openai.api_key = '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'
+openai.api_key = ''
 
 # Specify path to CSV file
 source_csv = "./reviews_dir/job_reviews_30.csv"
