@@ -1,0 +1,11 @@
+concatenated_columns
+id: 1 | cargo ocupado: Programador web e de multimédia | senioridade: Sénior | tags: mysql, php, symfony
+id: 4 | cargo ocupado: Programador web e de multimédia | senioridade: Sénior | tags: actionscript, angularjs, html
+id: 5 | cargo ocupado: Programador web e de multimédia | senioridade: Sénior | tags: angularjs, html, javascript
+id: 6 | cargo ocupado: Programador de software | senioridade: Sénior | tags: javascript, php
+id: 7 | cargo ocupado: Programador de software | senioridade: Sénior | tags: .net
+id: 8 | cargo ocupado: Programador de software | senioridade: Sénior | tags: c, hardware, software-architecture
+id: 9 | cargo ocupado: Programador de software | senioridade: Júnior | tags: asp.net, c#, java
+id: 10 | cargo ocupado: Programador de software | senioridade: Sénior | tags: jquery, phonegap, php
+id: 11 | cargo ocupado: Programador de software | senioridade: Sénior | tags: jquery, mysql, symfony
+id: 13 | cargo ocupado: Programador de software | senioridade: Sénior | tags: css, java, xml

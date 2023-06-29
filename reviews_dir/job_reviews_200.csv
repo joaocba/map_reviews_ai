@@ -1,0 +1,201 @@
+concatenated_columns
+id: 1 | cargo ocupado: Programador web e de multimédia | senioridade: Sénior | tags: mysql, php, symfony
+id: 4 | cargo ocupado: Programador web e de multimédia | senioridade: Sénior | tags: actionscript, angularjs, html
+id: 5 | cargo ocupado: Programador web e de multimédia | senioridade: Sénior | tags: angularjs, html, javascript
+id: 6 | cargo ocupado: Programador de software | senioridade: Sénior | tags: javascript, php
+id: 7 | cargo ocupado: Programador de software | senioridade: Sénior | tags: .net
+id: 8 | cargo ocupado: Programador de software | senioridade: Sénior | tags: c, hardware, software-architecture
+id: 9 | cargo ocupado: Programador de software | senioridade: Júnior | tags: asp.net, c#, java
+id: 10 | cargo ocupado: Programador de software | senioridade: Sénior | tags: jquery, phonegap, php
+id: 11 | cargo ocupado: Programador de software | senioridade: Sénior | tags: jquery, mysql, symfony
+id: 13 | cargo ocupado: Programador de software | senioridade: Sénior | tags: css, java, xml
+id: 14 | cargo ocupado: Programador de software | senioridade: Sénior | tags: javascript, php
+id: 15 | cargo ocupado: Programador de software | senioridade: Júnior | tags: .net, outsystems, sql
+id: 16 | cargo ocupado: Programador web e de multimédia | senioridade: Júnior | tags: outsystems, sql
+id: 17 | cargo ocupado: Engenheiro de telecomunicações | senioridade: Júnior | tags: database, javascript, ldap
+id: 19 | cargo ocupado: Programador web e de multimédia | senioridade: Sénior | tags: c#, .net, node.js
+id: 20 | cargo ocupado: Programador de software | senioridade: Sénior | tags: java
+id: 21 | cargo ocupado: Programador de software | senioridade: Sénior | tags: php
+id: 22 | cargo ocupado: Programador de software | senioridade: Sénior | tags: c#, java
+id: 23 | cargo ocupado: Programador de software | senioridade: Sénior | tags: java, oracle-database, web-services
+id: 24 | cargo ocupado: Programador de software | senioridade: Sénior | tags: java, linux, sql
+id: 25 | cargo ocupado: Programador de software | senioridade: Sénior | tags: .net, sharepoint, sql-server
+id: 26 | cargo ocupado: Programador de software | senioridade: Júnior | tags: sap
+id: 27 | cargo ocupado: Programador web e de multimédia | senioridade: Sénior | tags: javascript, php, wordpress
+id: 28 | cargo ocupado: Programador web e de multimédia | senioridade: Sénior | tags: javascript, php, wordpress
+id: 29 | cargo ocupado: Gestor de projeto | senioridade: Sénior | tags: project-management
+id: 30 | cargo ocupado: Programador web e de multimédia | senioridade: Sénior | tags: css, html5, javascript
+id: 31 | cargo ocupado: Programador de software | senioridade: Sénior | tags: java
+id: 32 | cargo ocupado: Outros analistas e programadores, de software e aplicações | senioridade: Sénior | tags: excel
+id: 33 | cargo ocupado: Programador de software | senioridade: Júnior | tags: javascript, .net, sql-server
+id: 34 | cargo ocupado: Programador de software | senioridade: Júnior | tags: java
+id: 35 | cargo ocupado: Outros analistas e programadores, de software e aplicações | senioridade: Júnior | tags: excel, testing
+id: 36 | cargo ocupado: Outros analistas e programadores, de software e aplicações | senioridade: Júnior | tags: testing
+id: 37 | cargo ocupado: Programador de software | senioridade: Júnior | tags: java, .net
+id: 38 | cargo ocupado: Programador de software | senioridade: Sénior | tags: azure, .net
+id: 39 | cargo ocupado: Programador de software | senioridade: Sénior | tags: sap
+id: 40 | cargo ocupado: Administrador de sistemas | senioridade: Júnior | tags: azure, windows-server
+id: 41 | cargo ocupado: Programador de software | senioridade: Júnior | tags: html, javascript
+id: 42 | cargo ocupado: Programador de software | senioridade: Júnior | tags: outsystems
+id: 43 | cargo ocupado: Outros analistas e programadores, de software e aplicações | senioridade: Sénior | tags: active-directory, .net, windows
+id: 44 | cargo ocupado: Programador de software | senioridade: Sénior | tags: symfony
+id: 45 | cargo ocupado: Administrador de sistemas | senioridade: Júnior | tags: centos, linux, redhat
+id: 46 | cargo ocupado: Gestor de projeto | senioridade: Sénior | tags: qt
+id: 47 | cargo ocupado: Programador de software | senioridade: Sénior | tags: asp.net, .net, sql-server
+id: 48 | cargo ocupado: Outros analistas e programadores, de software e aplicações | senioridade: Sénior | tags: cloud, hadoop, linux
+id: 49 | cargo ocupado: Especialista em base de dados | senioridade: Sénior | tags: sap
+id: 50 | cargo ocupado: Programador de software | senioridade: Júnior | tags: css, html5, javascript
+id: 51 | cargo ocupado: Designer, gráfico ou de comunicação e multimédia | senioridade: Sénior | tags: 3d, adobe-after-effects, adobe-photoshop
+id: 52 | cargo ocupado: Programador de software | senioridade: Júnior | tags: java, maven, web-app
+id: 53 | cargo ocupado: Designer, gráfico ou de comunicação e multimédia | senioridade: Sénior | tags: web-app
+id: 54 | cargo ocupado: Programador de software | senioridade: Júnior | tags: asp.net
+id: 55 | cargo ocupado: Programador de software | senioridade: Júnior | tags: angularjs, asp.net, sql-server
+id: 56 | cargo ocupado: Programador de software | senioridade: Sénior | tags: asp.net, sql-server
+id: 57 | cargo ocupado: Programador de software | senioridade: Júnior | tags: asp.net, sql-server
+id: 58 | cargo ocupado: Programador de aplicações mobile | senioridade: Júnior | tags: ios
+id: 60 | cargo ocupado: Gestor de projeto | senioridade: Júnior | tags: laravel, php, wordpress
+id: 61 | cargo ocupado: Especialista em base de dados | senioridade: Sénior | tags: database, sql
+id: 62 | cargo ocupado: Programador de software | senioridade: Sénior | tags: java, oracle-database
+id: 63 | cargo ocupado: Programador de software | senioridade: Sénior | tags: html, javascript, oracle-database
+id: 64 | cargo ocupado: Programador de software | senioridade: Júnior | tags: css, html, javascript
+id: 65 | cargo ocupado: Especialista em base de dados | senioridade: Sénior | tags: oracle-database, sql
+id: 66 | cargo ocupado: Programador de software | senioridade: Júnior | tags: asp.net, vb.net
+id: 67 | cargo ocupado: Programador de software | senioridade: Sénior | tags: java
+id: 68 | cargo ocupado: Programador de software | senioridade: Sénior | tags: java
+id: 69 | cargo ocupado: Outros analistas e programadores, de software e aplicações | senioridade: Sénior | tags: amazon-web-services-aws, elasticsearch, jenkins
+id: 70 | cargo ocupado: Programador de software | senioridade: Júnior | tags: java
+id: 71 | cargo ocupado: Outros analistas e programadores, de software e aplicações | senioridade: Júnior | tags: unix
+id: 72 | cargo ocupado: Outros analistas e programadores, de software e aplicações | senioridade: Júnior | tags: web-services
+id: 73 | cargo ocupado: Outros analistas e programadores, de software e aplicações | senioridade: Sénior | tags: excel
+id: 74 | cargo ocupado: Técnico de help desk | senioridade: Júnior | tags: windows
+id: 75 | cargo ocupado: Programador de software | senioridade: Júnior | tags: python
+id: 76 | cargo ocupado: Programador web e de multimédia | senioridade: Sénior | tags: c#, .net, python
+id: 77 | cargo ocupado: Programador web e de multimédia | senioridade: Sénior | tags: php, sql, symfony
+id: 78 | cargo ocupado: Programador web e de multimédia | senioridade: Sénior | tags: javascript, php, symfony
+id: 79 | cargo ocupado: Outros especialistas em base de dados e redes | senioridade: Sénior | tags: database, sql
+id: 80 | cargo ocupado: Programador de software | senioridade: Sénior | tags: sap
+id: 81 | cargo ocupado: Programador de software | senioridade: Sénior | tags: css, java, php
+id: 82 | cargo ocupado: Programador de software | senioridade: Sénior | tags: html5, javascript, outsystems
+id: 83 | cargo ocupado: Programador de aplicações mobile | senioridade: Júnior | tags: objective-c, swift
+id: 84 | cargo ocupado: Programador de software | senioridade: Sénior | tags: windows
+id: 85 | cargo ocupado: Programador de software | senioridade: Júnior | tags: content-management-system, java
+id: 86 | cargo ocupado: Programador de software | senioridade: Sénior | tags: objective-c, swift
+id: 87 | cargo ocupado: Programador de software | senioridade: Sénior | tags: java, oracle-database
+id: 88 | cargo ocupado: Programador web e de multimédia | senioridade: Júnior | tags: css, html, javascript
+id: 89 | cargo ocupado: Programador de software | senioridade: Sénior | tags: java
+id: 90 | cargo ocupado: Programador de software | senioridade: Sénior | tags: sap
+id: 91 | cargo ocupado: Outros analistas e programadores, de software e aplicações | senioridade: Júnior | tags: oracle-database, sql
+id: 92 | cargo ocupado: Outros analistas e programadores, de software e aplicações | senioridade: Sénior | tags: sql
+id: 93 | cargo ocupado: Designer de jogos | senioridade: Sénior | tags: c#, sql
+id: 94 | cargo ocupado: Administrador de sistemas | senioridade: Sénior | tags: azure
+id: 95 | cargo ocupado: Programador web e de multimédia | senioridade: Sénior | tags: html5, php
+id: 96 | cargo ocupado: Programador de aplicações mobile | senioridade: Sénior | tags: android
+id: 97 | cargo ocupado: Designer de jogos | senioridade: Sénior | tags: game-design
+id: 98 | cargo ocupado: Programador web e de multimédia | senioridade: Sénior | tags: css, html5, javascript
+id: 99 | cargo ocupado: Administrador de sistemas | senioridade: Júnior | tags: operating-system, vmware, windows-server
+id: 100 | cargo ocupado: Administrador de sistemas | senioridade: Júnior | tags: azure, operating-system, windows
+id: 101 | cargo ocupado: Técnico de suporte | senioridade: Júnior | tags: hardware, technical-support, windows-server
+id: 102 | cargo ocupado: Programador de software | senioridade: Sénior | tags: java, javascript
+id: 103 | cargo ocupado: Técnico de suporte | senioridade: Sénior | tags: azure, iis, windows
+id: 104 | cargo ocupado: Outros analistas e programadores, de software e aplicações | senioridade: Sénior | tags: sql-server
+id: 105 | cargo ocupado: Programador de software | senioridade: Sénior | tags: oracle-database
+id: 106 | cargo ocupado: Programador de software | senioridade: Sénior | tags: android
+id: 107 | cargo ocupado: Programador de software | senioridade: Sénior | tags: outsystems
+id: 108 | cargo ocupado: Programador de software | senioridade: Sénior | tags: c#, .net, sql
+id: 109 | cargo ocupado: Programador de software | senioridade: Júnior | tags: java
+id: 110 | cargo ocupado: Engenheiro de telecomunicações | senioridade: Júnior | tags: excel
+id: 111 | cargo ocupado: Programador de software | senioridade: Júnior | tags: javascript, sap, web-app
+id: 112 | cargo ocupado: Designer, gráfico ou de comunicação e multimédia | senioridade: Sénior | tags: adobe-creative-cloud
+id: 113 | cargo ocupado: Programador web e de multimédia | senioridade: Sénior | tags: javascript
+id: 114 | cargo ocupado: Outros analistas e programadores, de software e aplicações | senioridade: Júnior | tags: excel-vba, sql
+id: 115 | cargo ocupado: Programador de software | senioridade: Sénior | tags: javascript
+id: 116 | cargo ocupado: Programador de software | senioridade: Sénior | tags: angularjs, java, javascript
+id: 117 | cargo ocupado: Programador web e de multimédia | senioridade: Sénior | tags: python
+id: 118 | cargo ocupado: Programador de software | senioridade: Sénior | tags: c#, .net, sql
+id: 119 | cargo ocupado: Especialista em base de dados | senioridade: Sénior | tags: sql, sql-server
+id: 120 | cargo ocupado: Programador de software | senioridade: Sénior | tags: java, sql
+id: 122 | cargo ocupado: Programador de software | senioridade: Sénior | tags: c#, .net, sql
+id: 124 | cargo ocupado: Administrador de sistemas | senioridade: Sénior | tags: linux, virtualization
+id: 125 | cargo ocupado: Administrador de sistemas | senioridade: Sénior | tags: linux, virtualization
+id: 126 | cargo ocupado: Administrador de sistemas | senioridade: Sénior | tags: linux, python, scripting
+id: 127 | cargo ocupado: Programador de software | senioridade: Sénior | tags: java
+id: 128 | cargo ocupado: Programador de software | senioridade: Sénior | tags: java, software-architecture, software-design
+id: 129 | cargo ocupado: Programador de software | senioridade: Júnior | tags: java, tomcat
+id: 130 | cargo ocupado: Administrador de sistemas | senioridade: Sénior | tags: linux, technical-support, voip
+id: 131 | cargo ocupado: Programador de software | senioridade: Júnior | tags: java
+id: 132 | cargo ocupado: Especialista em base de dados | senioridade: Júnior | tags: database, database-design
+id: 133 | cargo ocupado: Programador de software | senioridade: Sénior | tags: outsystems, project-management, sql
+id: 134 | cargo ocupado: Programador de software | senioridade: Sénior | tags: sap
+id: 136 | cargo ocupado: Programador de software | senioridade: Júnior | tags: java, tomcat
+id: 137 | cargo ocupado: Programador de software | senioridade: Sénior | tags: c#, java
+id: 138 | cargo ocupado: Programador de software | senioridade: Júnior | tags: java, web-services
+id: 139 | cargo ocupado: Programador de software | senioridade: Sénior | tags: .net
+id: 140 | cargo ocupado: Gestor de projeto | senioridade: Sénior | tags: project-management
+id: 141 | cargo ocupado: Designer, gráfico ou de comunicação e multimédia | senioridade: Sénior | tags: adobe-illustrator, adobe-photoshop, css
+id: 142 | cargo ocupado: Técnico de help desk | senioridade: Sénior | tags: active-directory, windows
+id: 143 | cargo ocupado: Programador de software | senioridade: Sénior | tags: git, javascript, web-services
+id: 144 | cargo ocupado: Engenheiro electrónico | senioridade: Sénior | tags: project-management, software-architecture
+id: 145 | cargo ocupado: Programador web e de multimédia | senioridade: Sénior | tags: linux, php, python
+id: 146 | cargo ocupado: Programador web e de multimédia | senioridade: Sénior | tags: git, html5, javascript
+id: 147 | cargo ocupado: Programador de software | senioridade: Júnior | tags: sap
+id: 148 | cargo ocupado: Especialista em redes informáticas | senioridade: Sénior | tags: cisco, voip
+id: 149 | cargo ocupado: Programador de software | senioridade: Sénior | tags: java
+id: 150 | cargo ocupado: Programador web e de multimédia | senioridade: Sénior | tags: angularjs, javascript
+id: 151 | cargo ocupado: Programador de software | senioridade: Sénior | tags: outsystems
+id: 152 | cargo ocupado: Outros analistas e programadores, de software e aplicações | senioridade: Sénior | tags: computer-security, software-architecture, software-design
+id: 153 | cargo ocupado: Outros especialistas em base de dados e redes | senioridade: Sénior | tags: active-directory
+id: 154 | cargo ocupado: Programador de software | senioridade: Júnior | tags: asp.net
+id: 155 | cargo ocupado: Outros analistas e programadores, de software e aplicações | senioridade: Sénior | tags: java, sql-server
+id: 156 | cargo ocupado: Programador de software | senioridade: Sénior | tags: android, ios, mobile
+id: 157 | cargo ocupado: Administrador de sistemas | senioridade: Sénior | tags: java, linux, virtualization
+id: 158 | cargo ocupado: Engenheiro de telecomunicações | senioridade: Júnior | tags: documentation, excel
+id: 159 | cargo ocupado: Especialista em base de dados | senioridade: Sénior | tags: database, oracle-database, sql
+id: 160 | cargo ocupado: Programador de software | senioridade: Sénior | tags: sap
+id: 161 | cargo ocupado: Gestor de projeto | senioridade: Sénior | tags: project-management, technical-support, wifi
+id: 162 | cargo ocupado: Especialista em base de dados | senioridade: Sénior | tags: database, database-design
+id: 163 | cargo ocupado: Programador de software | senioridade: Sénior | tags: .net, software-architecture
+id: 164 | cargo ocupado: Programador web e de multimédia | senioridade: Júnior | tags: php
+id: 165 | cargo ocupado: Programador de software | senioridade: Sénior | tags: java
+id: 166 | cargo ocupado: Gestor de produto | senioridade: Sénior | tags: project-management, sap
+id: 167 | cargo ocupado: Programador de software | senioridade: Júnior | tags: asp.net
+id: 168 | cargo ocupado: Programador web e de multimédia | senioridade: Sénior | tags: git, html5, javascript
+id: 169 | cargo ocupado: Outros analistas e programadores, de software e aplicações | senioridade: Sénior | tags: technical-support
+id: 170 | cargo ocupado: Outros analistas e programadores, de software e aplicações | senioridade: Sénior | tags: linux, software-architecture
+id: 171 | cargo ocupado: Programador de software | senioridade: Sénior | tags: java, orm, web-services
+id: 172 | cargo ocupado: Outros analistas e programadores, de software e aplicações | senioridade: Sénior | tags: erp, sage
+id: 173 | cargo ocupado: Programador de software | senioridade: Sénior | tags: c#, html, javascript
+id: 174 | cargo ocupado: Gestor de projeto | senioridade: Sénior | tags: java
+id: 175 | cargo ocupado: Gestor de projeto | senioridade: Sénior | tags: project-management
+id: 176 | cargo ocupado: Especialista em redes informáticas | senioridade: Sénior | tags: sql-server
+id: 177 | cargo ocupado: Programador de software | senioridade: Sénior | tags: android, angularjs, ios
+id: 178 | cargo ocupado: Programador de software | senioridade: Sénior | tags: javascript, outsystems, sql
+id: 179 | cargo ocupado: Programador de software | senioridade: Sénior | tags: hibernate, java, web-services
+id: 181 | cargo ocupado: Gestor de projeto | senioridade: Sénior | tags: project-management
+id: 182 | cargo ocupado: Programador web e de multimédia | senioridade: Sénior | tags: javascript, php
+id: 183 | cargo ocupado: Outros analistas e programadores, de software e aplicações | senioridade: Júnior | tags: sharepoint
+id: 184 | cargo ocupado: Outros analistas e programadores, de software e aplicações | senioridade: Júnior | tags: oracle-database
+id: 185 | cargo ocupado: Programador web e de multimédia | senioridade: Sénior | tags: javascript, node.js
+id: 186 | cargo ocupado: Programador de software | senioridade: Júnior | tags: java
+id: 187 | cargo ocupado: Programador de software | senioridade: Júnior | tags: java
+id: 188 | cargo ocupado: Programador de software | senioridade: Júnior | tags: java
+id: 189 | cargo ocupado: Programador de software | senioridade: Sénior | tags: java, javascript, .net
+id: 190 | cargo ocupado: Especialista em redes informáticas | senioridade: Sénior | tags: cisco, firewall, oauth
+id: 191 | cargo ocupado: Especialista em redes informáticas | senioridade: Sénior | tags: computer-security, firewall, open-source
+id: 192 | cargo ocupado: Programador web e de multimédia | senioridade: Júnior | tags: angularjs, javascript, .net
+id: 193 | cargo ocupado: Programador de software | senioridade: Júnior | tags: angularjs, java, .net
+id: 194 | cargo ocupado: Programador de software | senioridade: Júnior | tags: sap
+id: 195 | cargo ocupado: Técnico de suporte | senioridade: Sénior | tags: servers, technical-support
+id: 196 | cargo ocupado: Engenheiro electrotécnico | senioridade: Júnior | tags: excel, windows
+id: 197 | cargo ocupado: Engenheiro electrónico | senioridade: Sénior | tags: java, matlab
+id: 198 | cargo ocupado: Programador de software | senioridade: Júnior | tags: angularjs, .net, postgresql
+id: 199 | cargo ocupado: Programador de software | senioridade: Sénior | tags: sap
+id: 200 | cargo ocupado: Programador de software | senioridade: Sénior | tags: sap
+id: 201 | cargo ocupado: Programador web e de multimédia | senioridade: Júnior | tags: java, linux, web-services
+id: 202 | cargo ocupado: Programador de software | senioridade: Júnior | tags: .net
+id: 203 | cargo ocupado: Programador de software | senioridade: Júnior | tags: c#
+id: 204 | cargo ocupado: Programador de software | senioridade: Júnior | tags: excel, excel-vba
+id: 205 | cargo ocupado: Programador web e de multimédia | senioridade: Júnior | tags: angularjs, .net
+id: 206 | cargo ocupado: Programador de software | senioridade: Sénior | tags: java, oracle-database, testing
+id: 207 | cargo ocupado: Programador de software | senioridade: Sénior | tags: c#, .net
+id: 208 | cargo ocupado: Programador de software | senioridade: Sénior | tags: c#, .net, oracle-database
+id: 209 | cargo ocupado: Programador de software | senioridade: Sénior | tags: algorithm, java, nosql

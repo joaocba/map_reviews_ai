@@ -1,0 +1,30 @@
+1, 1 | Backend
+4, 22 | Designer, gr�fico ou de comunica��o e multim�dia
+5, 4 | Fullstack
+6, 4 | Fullstack
+7, 1 | Backend
+8, 2 | Embedded systems
+9, 1 | Backend
+10, 4 | Fullstack
+11, 4 | Fullstack
+13, 4 | Fullstack
+14, 4 | Fullstack
+15, 1 | Backend
+16, 4 | Fullstack
+17, 11 | Administrador de base de dados
+19, 1 | Backend
+20, 1 | Backend
+21, 1 | Backend
+22, 1 | Backend
+23, 1 | Backend
+24, 1 | Backend
+25, 1 | Backend
+26, 13 | Analista funcional
+27, 4 | Fullstack
+28, 4 | Fullstack
+29, 17 | Gestor de projeto
+30, 4 | Fullstack
+31, 1 | Backend
+32, 0
+33, 4 | Fullstack
+34, 1 | Backend
